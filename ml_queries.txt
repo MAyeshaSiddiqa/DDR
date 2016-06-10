@@ -1,0 +1,17 @@
+Deep learning
+Principal component analysis 
+Statistical learning theory
+Nonlinear dimensionality reduction
+Activity recognition
+M-Theory (learning framework)
+Mixture model
+Low rank approximation
+Adversarial machine learning
+Similarity learning
+Catastrophic inference
+Multilinear subspace learning
+Deep belief network
+Convolutional neural network
+Nervous system network models
+Hierarchical temporal memory
+Multilayer perceptron
